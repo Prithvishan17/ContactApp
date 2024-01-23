@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Lato Regular.ttf",
+      "sha1": "e923c72eda5e50a87e18ff5c71e9ef4b3b6455a3"
+    },
+    {
+      "path": "assets/fonts/NotoSans Regular.ttf",
+      "sha1": "48a8a4666136b01990837565613f7b7911d0093f"
+    },
+    {
+      "path": "assets/fonts/Poppins Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/Roboto.ttf",
+      "sha1": "56c5c0d38bde4c1f1549dda43db37b09c608aad3"
+    },
+    {
+      "path": "assets/fonts/Source Sans 3 Regular.ttf",
+      "sha1": "9b68aa1db60830073d1429a87e8ff0be48f0718d"
+    }
+  ]
+}
